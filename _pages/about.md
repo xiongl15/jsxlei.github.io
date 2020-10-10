@@ -13,12 +13,12 @@ I earned my Ph.D. in Bioinformatics from the Tsinghua University and my B.A. in 
 
 Research interests
 ======
-* Deep learning algorithm for
  * Single-cell epigenomics.  
  * Single-cell data integration.
  * Integrative analysis of multi-omics single-cell data.
  * Mining gene regulation network.
  
  
- Latest News
- ======
+Latest News
+======
+2020-09-14 Finish the Ph.D. thesis defense.
