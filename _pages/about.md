@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I earned my Ph.D. in Bioinformatics from the Tsinghua University and my B.A. in Biology from University of Science and Technology of China. My research focuses on developing deep learning methods to understand cell-to-cell heterogeneity from genomes and epigenomics. 
+I earned my Ph.D. in Bioinformatics from the Tsinghua University and my B.A. in Biology from University of Science and Technology of China. My research focuses on developing deep learning methods to understand cell-to-cell variations in gene regulation. 
 
 
 Research interests
