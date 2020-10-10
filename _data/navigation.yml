@@ -6,9 +6,9 @@ main:
   - title: "Sotfware"
     url: /Software/
         
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/pdf/leixiong_cv.pdf
     
