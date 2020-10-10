@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-I am a Bioinforamtics PhD in the laboratory of Prof. Qiangfeng Cliff Zhang. My research primarily foucuses on developing new techniques and computational methods to understand gene regulation at the level of single cell. 
+I earned my Ph.D. in Bioinformatics from the Tsinghua University and my B.A. in Biology from University of Science and Technology of China. My research focuses on developing deep learning methods to understand cell-to-cell heterogeneity from genomes and epigenomics. 
 
 
 Research interests
 ======
-* Single Cell 
-* Deep Learning Algorithm
+* Deep learning algorithm for
+ * Single-cell epigenomics.  
+ * Single-cell data integration.
+ * Integrative analysis of multi-omics single-cell data.
+ * Mining gene regulation network.
+ 
+ 
+ Latest News
+ ======
