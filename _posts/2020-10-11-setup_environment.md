@@ -21,7 +21,7 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 
     sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
     
- 2. Config the zsh with .zshrc file 
+2. Config the zsh with .zshrc file 
  
     vi ~/.zshrc
     
