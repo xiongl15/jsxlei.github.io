@@ -7,7 +7,7 @@ main:
     url: /software/
         
   - title: "Posts"
-    url: /post/
+    url: /posts/
     
   - title: "CV"
     url: /files/pdf/leixiong_cv.pdf
