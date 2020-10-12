@@ -14,6 +14,7 @@ This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum
 <!--more-->
 
 # Installation
+
 * zsh
 * tmux
 * miniconda
