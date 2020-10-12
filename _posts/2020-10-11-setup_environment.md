@@ -2,6 +2,8 @@
 title: 'Setup environment for data science'
 date: 2020-10-11
 permalink: /posts/2020/10/setup_environment/
+excerpt_separator: <!--more-->
+toc: true
 tags:
   - data science
   - linux
