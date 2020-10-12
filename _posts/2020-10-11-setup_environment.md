@@ -12,8 +12,7 @@ tags:
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
 
-Installation
-======
+# Installation
 * zsh
 * tmux
 * miniconda
@@ -21,8 +20,6 @@ Installation
 * jupyterlab remote
 
 
-You can have many headings
-======
+# You can have many headings
 
-Aren't headings cool?
-------
+## Aren't headings cool?
