@@ -19,6 +19,3 @@ Research interests
  * Mining gene regulation network.
  
  
-Latest News
-======
-2020-09-14 Finish the Ph.D. thesis defense.
