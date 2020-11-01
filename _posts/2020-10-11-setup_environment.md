@@ -4,7 +4,6 @@ date: 2020-10-11
 permalink: /posts/2020/10/setup_environment/
 excerpt_separator: <!--more-->
 toc: true
-og_image: /images/site-logo.png
 tags:
   - data science
   - linux
